@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-til",
+  "version": "1.0.0",
+  "description": "TIL (Today I Learned) skill for Obsidian - summarize URLs and add to Daily Notes",
+  "author": {
+    "name": "Wondoo Kang",
+    "url": "https://github.com/azyu"
+  },
+  "repository": "https://github.com/azyu/obsidian-skills",
+  "license": "MIT",
+  "keywords": ["obsidian", "til", "daily-notes", "summarize", "learning"]
+}

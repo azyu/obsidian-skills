@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-skills",
+  "owner": {
+    "name": "Wondoo Kang",
+    "url": "https://github.com/azyu"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-til",
+      "source": "./",
+      "description": "TIL skill for Obsidian Daily Notes",
+      "version": "1.0.0"
+    }
+  ]
+}
